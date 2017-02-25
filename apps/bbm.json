@@ -1,0 +1,11 @@
+{
+"nama_layanan": "blackberry messenger",
+"penyedia_layanan": "BlackBerry Singapore Pte. Limited" 
+"jenis_layanan": "mobile app",
+"ketentuan":
+	["pros": [""], 
+	 "kons": []
+	],
+"keterangan": ["ToS sudah diterjemahkan ke bahasa Indonesia"]
+"rating": 1
+}
